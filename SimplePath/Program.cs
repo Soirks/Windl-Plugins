@@ -16,7 +16,7 @@ namespace SimplePath
 
             Task t = new Task(() =>
              {
-                 Thread.Sleep(2000);
+                 Thread.Sleep(20000);
                  Console.WriteLine("[SimplePath]开始清理根目录无用文件...");
                  delete("bedrock_server_how_to.html");
                  delete("release-notes.txt");
