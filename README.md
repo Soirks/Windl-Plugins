@@ -7,4 +7,5 @@
 # SimplePath
 简洁根目录
 ### https://www.minebbs.com/resources/simplepath.2273/
-
+# ThirstyPoint
+口渴度
